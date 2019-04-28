@@ -39,7 +39,7 @@ def second_challenge
       
       
       
-      }, 
+      }
       
       
     }
